@@ -1,0 +1,3 @@
+--Generar medida para porcentajes en funcion de un total
+sum(total)
+
