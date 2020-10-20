@@ -1,3 +1,5 @@
 Generando un archivo de muestra para track de de arhcivos, genero enunciados
 
 Nombre: Fernando Pullutasig
+edad: 32
+pivotEsoecialitatio: I become a data science
