@@ -16,6 +16,7 @@ body {
 }
 .parrafo {
     text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
 }
 .imglink {
     size: 9rem;
