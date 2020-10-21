@@ -2,6 +2,13 @@ body {
     background:#f1faee;
     margin: center;
 }
+
+.container {
+    width: 75%;
+    padding: 1em;
+    border: 1px solid #dddddd;
+    margin: 0 auto;
+}
 .titulo {
     font-weight: 200;
     color: #003049;
