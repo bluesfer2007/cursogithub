@@ -1,4 +1,15 @@
 body {
-    background: blue;
+    background:#f1faee;
     margin: center;
+}
+.titulo {
+    font-weight: 200;
+    color: #003049;
+    text-align: center;
+}
+.parrafo {
+    text-align: justify;
+}
+.imglink {
+    size: 9rem;
 }
