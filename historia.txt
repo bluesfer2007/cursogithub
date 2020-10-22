@@ -1,3 +1,10 @@
 Generando un archivo de muestra para track de de arhcivos, genero enunciados
 
 Nombre: Fernando Pullutasig
+
+Edad:32
+
+Nacionalidad: Ecuatoriano
+
+Texto:
+Este es el ejemplo de una texto agregado para poder establecer los aprametros de cambios 
