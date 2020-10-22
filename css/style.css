@@ -30,6 +30,8 @@ body {
     font-weight: 200;
     color: #003049;
     text-align: center;
+    font-size: 18px;
+    font-weight: 300;
 }
 .parrafo {
     text-align: justify;
@@ -38,3 +40,4 @@ body {
 .imglink {
     size: 9rem;
 }
+
