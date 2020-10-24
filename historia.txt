@@ -8,3 +8,4 @@ Nacionalidad: Ecuatoriano
 
 Texto:
 Este es el ejemplo de una texto agregado para poder establecer los aprametros de cambios 
+agrego cambio desde la laptop dell personal
