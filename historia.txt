@@ -9,3 +9,6 @@ Nacionalidad: Ecuatoriano
 Texto:
 Este es el ejemplo de una texto agregado para poder establecer los aprametros de cambios 
 agrego cambio desde la laptop dell personal
+
+TITULO DE cambios
+Tengo un gato chillon en la casa y parece que enloquecio esta saltando por todas partes
